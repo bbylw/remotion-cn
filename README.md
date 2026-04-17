@@ -60,3 +60,7 @@ API 参考：[**remotion.dev/api**](https://www.remotion.dev/api)
 ## 贡献
 
 请阅读 [CONTRIBUTING.md](https://github.com/remotion-dev/remotion/blob/main/CONTRIBUTING.md) 以了解如何为该项目做出贡献。
+
+---
+
+> 本文档汉化自 [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
